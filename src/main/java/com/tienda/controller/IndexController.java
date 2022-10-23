@@ -31,6 +31,7 @@ public class IndexController {
         model.addAttribute("clientes", clientes);
 
         return "index";
+        //commit
     }
 
 }
